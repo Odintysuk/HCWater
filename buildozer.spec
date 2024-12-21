@@ -7,7 +7,7 @@ title = HCWater
 package.name = HCWater
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = https://github.com/Odintysuk/HCWater
+package.domain = org.test
 
 # (str) Source code where the main.py live
 source.dir = .
